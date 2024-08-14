@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --background-color: #0f4c5c; /* Example color matching your header and footer */
+  }
+  
+  body {
+    background-color: var(--background-color);
+  }
+  
