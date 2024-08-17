@@ -19,12 +19,12 @@
         <h2 class="text-lg sm:text-xl md:text-2xl font-bold mb-4">Follow Us</h2>
         <div class="flex flex-wrap justify-center space-x-4">
           <!-- Social Media Text Links -->
-          <a href="https://youtube.com" class="text-white hover:text-emerald-100 font-bold">YouTube</a>
-          <a href="https://github.com" class="text-white hover:text-emerald-100 font-bold">GitHub</a>
-          <a href="https://x.com" class="text-white hover:text-emerald-100 font-bold">X</a>
-          <a href="https://linkedin.com" class="text-white hover:text-emerald-100 font-bold">LinkedIn</a>
-          <a href="https://instagram.com" class="text-white hover:text-emerald-100 font-bold">Instagram</a>
-          <a href="https://discord.com" class="text-white hover:text-emerald-100 font-bold">Discord</a>
+          <a href="https://www.youtube.com/channel/UCvZHwT3lhAL8w4h7vAnLO4Q" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">YouTube</a>
+          <a href="https://github.com/TefroOfficial" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">GitHub</a>
+          <a href="https://x.com/TefroOfficial" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">X</a>
+          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">LinkedIn</a>
+          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">Instagram</a>
+          <a href="https://discord.com" target="_blank" rel="noopener noreferrer" class="text-white hover:text-emerald-100 font-bold">Discord</a>
         </div>
       </div>
     </div>

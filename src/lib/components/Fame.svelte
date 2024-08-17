@@ -4,7 +4,7 @@
         image: "/Osuwo.jpeg",
         title: "OsuwoJr",
         description: "Front-End & WEB3-Dev",
-        link: "https://example.com/person-one"
+        link: "https://myprofile-puce.vercel.app/"
       },
       {
         image: "/image2.jpeg",
@@ -47,6 +47,18 @@
         title: "Person Eight",
         description: "Description for Person Eight",
         link: "https://example.com/person-eight"
+      },
+      {
+        image: "/image9.jpeg",
+        title: "Person Nine",
+        description: "Description for Person Nine",
+        link: "https://example.com/person-Nine"
+      },
+      {
+        image: "/image10.jpeg",
+        title: "Person Ten",
+        description: "Description for Person Ten",
+        link: "https://example.com/person-ten"
       },
     ];
   </script>

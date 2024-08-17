@@ -54,7 +54,7 @@
       <div>
         <h2 class="text-xl font-semibold text-white mb-4">Other Ways to Reach Us</h2>
         <div class="flex flex-col items-start space-y-4">
-          <p class="text-base text-gray-300">Email: <a href="mailto:contact@example.com" class="text-blue-400 hover:underline">contact@example.com</a></p>
+          <p class="text-base text-gray-300">Email: <a href="mailto:tefro83@gmail.com" class="text-blue-400 hover:underline">contact@tefro.com</a></p>
           <p class="text-base text-gray-300">Phone: <a href="tel:+1234567890" class="text-blue-400 hover:underline">+1 (234) 567-890</a></p>
           <p class="text-base text-gray-300">Address: 123 Main Street, Suite 456, Nairobi, Kenya</p>
         </div>
