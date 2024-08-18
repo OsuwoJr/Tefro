@@ -8,7 +8,7 @@
   }
 </style>
 
-<section class="flex flex-col items-center justify-center h-[80vh] text-center text-white py-6">
+<section class="flex flex-col items-center justify-center h-[60vh] text-center text-white py-6">
   <h1 class="text-4xl md:text-6xl font-bold hero-text mb-4">
       BUILD WITH WEB3 FRIENDS
   </h1>
