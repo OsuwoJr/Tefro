@@ -60,6 +60,18 @@
       description: "Description for Person Ten",
       link: "https://example.com/person-ten"
     },
+    {
+      image: "/image11.jpeg",
+      title: "Person Eleven",
+      description: "Description for Person Eleven",
+      link: "https://example.com/person-eleven"
+    },
+    {
+      image: "/image12.jpeg",
+      title: "Person Twelve",
+      description: "Description for Person Twelve",
+      link: "https://example.com/person-twelve"
+    },
   ];
 </script>
 
