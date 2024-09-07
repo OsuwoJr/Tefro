@@ -60,7 +60,7 @@
           <!-- Navigation Links -->
           <div class="flex flex-col items-center space-y-6">
               {#each ['Newsletter', 'Forum', 'Gateway', 'Agency'] as link}
-                  <a href="#" class="text-white hover:text-emerald-100 border border-emerald-500 hover:border-emerald-100 px-6 py-2 rounded transition-all duration-300">{link}</a>
+                  <a href={`/${link}`} class="text-white hover:text-emerald-100 border border-emerald-500 hover:border-emerald-100 px-6 py-2 rounded transition-all duration-300">{link}</a>
               {/each}
           </div>
       </div>

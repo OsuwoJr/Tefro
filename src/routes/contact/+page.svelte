@@ -19,16 +19,18 @@
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div class="flex flex-col">
               <label for="name" class="text-gray-300 mb-2">Name</label>
-              <input type="text" id="name" name="name" class="border border-gray-600 rounded-lg p-3 bg-gray-900 text-white" required />
+              <input type="text" id="name" name="name" class="border  rounded-lg outline-none p-3 bg-white-900 text-white" required />
             </div>
             <div class="flex flex-col">
-              <label for="email" class="text-gray-300 mb-2">Email</label>
-              <input type="email" id="email" name="email" class="border border-gray-600 rounded-lg p-3 bg-gray-900 text-white" required />
+              <label for="email" class="text-gray-300 outline-none mb-2">Email</label>
+              <input type="email" id="email" name="email" class="border outline-none  rounded-lg p-3 bg-white text-gray-900" required />
             </div>
           </div>
           <div class="flex flex-col">
             <label for="message" class="text-gray-300 mb-2">Message</label>
-            <textarea id="message" name="message" rows="4" class="border border-gray-600 rounded-lg p-3 bg-gray-900 text-white" required></textarea>
+            <textarea id="message" 
+            
+            name="message" rows="4" class="border  rounded-lg p-3 bg-white outline-none text-gray-900" required></textarea>
           </div>
           <button type="submit" class="bg-emerald-600 text-white px-6 py-3 rounded-lg hover:bg-emerald-700 transition-all duration-300">Send Message</button>
         </form>
@@ -54,7 +56,7 @@
       <div>
         <h2 class="text-xl font-semibold text-white mb-4">Other Ways to Reach Us</h2>
         <div class="flex flex-col items-start space-y-4">
-          <p class="text-base text-gray-300">Email: <a href="mailto:tefro83@gmail.com" class="text-blue-400 hover:underline">contact@tefro.com</a></p>
+          <p class="text-base text-gray-300">Email: <a href="mailto:contact@tefro.tech" class="text-blue-400 hover:underline">contact@tefro.tech</a></p>
           <p class="text-base text-gray-300">Phone: <a href="tel:+1234567890" class="text-blue-400 hover:underline">+1 (234) 567-890</a></p>
           <p class="text-base text-gray-300">Address: 123 Main Street, Suite 456, Nairobi, Kenya</p>
         </div>

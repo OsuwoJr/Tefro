@@ -1,14 +1,15 @@
 <script lang="ts">
+
   export let profiles = [
     {
-      image: "/Osuwo.jpeg",
-      title: "OsuwoJr",
+      image: "/amschel.jpg",
+      title: "Amschel",
       description: "Front-End & WEB3-Dev",
       link: "https://myprofile-puce.vercel.app/"
     },
     {
-      image: "/image2.jpeg",
-      title: "Person Two",
+      image: "/osuwo.png",
+      title: "Osuwo",
       description: "Description for Person Two",
       link: "https://example.com/person-two"
     },
@@ -36,42 +37,7 @@
       description: "Description for Person Six",
       link: "https://example.com/person-six"
     },
-    {
-      image: "/image7.jpeg",
-      title: "Person Seven",
-      description: "Description for Person Seven",
-      link: "https://example.com/person-seven"
-    },
-    {
-      image: "/image8.jpeg",
-      title: "Person Eight",
-      description: "Description for Person Eight",
-      link: "https://example.com/person-eight"
-    },
-    {
-      image: "/image9.jpeg",
-      title: "Person Nine",
-      description: "Description for Person Nine",
-      link: "https://example.com/person-Nine"
-    },
-    {
-      image: "/image10.jpeg",
-      title: "Person Ten",
-      description: "Description for Person Ten",
-      link: "https://example.com/person-ten"
-    },
-    {
-      image: "/image11.jpeg",
-      title: "Person Eleven",
-      description: "Description for Person Eleven",
-      link: "https://example.com/person-eleven"
-    },
-    {
-      image: "/image12.jpeg",
-      title: "Person Twelve",
-      description: "Description for Person Twelve",
-      link: "https://example.com/person-twelve"
-    },
+
   ];
 </script>
 
